@@ -1,0 +1,10 @@
+temperature	ghg	
+very high	high	0.4
+very high	moderate	0.2
+very high	low	0.1
+high	high	0.4
+high	moderate	0.4
+high	low	0.2
+moderate	high	0.2
+moderate	moderate	0.4
+moderate	low	0.7

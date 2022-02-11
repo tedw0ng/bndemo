@@ -1,0 +1,13 @@
+fuel sales	vmt	
+high sales	very high	0.8
+high sales	high	0.7
+high sales	moderate	0.3
+high sales	low	0.1
+moderate sales	very high	0.15
+moderate sales	high	0.2
+moderate sales	moderate	0.5
+moderate sales	low	0.2
+low sales	very high	0.05
+low sales	high	0.1
+low sales	moderate	0.2
+low sales	low	0.7

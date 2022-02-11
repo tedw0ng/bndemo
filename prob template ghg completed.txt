@@ -1,0 +1,10 @@
+ghg	vehicle emissions	
+high	high	0.6
+high	moderate	0.3
+high	low	0.1
+moderate	high	0.3
+moderate	moderate	0.5
+moderate	low	0.2
+low	high	0.1
+low	moderate	0.2
+low	low	0.7
